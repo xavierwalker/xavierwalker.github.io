@@ -1,0 +1,26 @@
+
+.jumbotron {
+  text-align: center;
+}
+
+body {
+  padding: 20px;
+}
+
+.bottom-text {
+  position: relative;
+  margin-top: 200px;
+  padding: 5px;
+  text-align: center;
+  clear: both;
+}
+
+.section-one {
+  margin-bottom: 40px;
+}
+
+.selfie {
+  height: 168px;
+  width: 168px;
+  border-radius: 50%;
+}
